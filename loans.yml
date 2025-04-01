@@ -1,0 +1,11 @@
+build:
+  version: "v3.0.0"
+
+loans:
+  message: "Welcome to Mango Bank Dev Loans Microservice"
+  contactDetails:
+    name: "Loans-Dev-Admin"
+    email: "loans-dev-admin@mango.com"
+  onCallSupport:
+    - 9654789654
+    - 9874569874

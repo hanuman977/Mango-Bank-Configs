@@ -1,0 +1,11 @@
+build:
+  version: "v3.0.0"
+
+loans:
+  message: "Welcome to Mango Bank QA Loans Microservice"
+  contactDetails:
+    name: "Loans-QA-Admin"
+    email: "loans-qa-admin@mango.com"
+  onCallSupport:
+    - 9654789654
+    - 9874569874

@@ -1,0 +1,11 @@
+build:
+  version: "v2.0.0"
+
+accounts:
+  message: "Welcome to Mango Bank QA Accounts Microservice"
+  contactDetails:
+    name: "Accounts-QA-Admin"
+    email: "accounts-qa-admin@mango.com"
+  onCallSupport:
+    - 9654789654
+    - 9874569874

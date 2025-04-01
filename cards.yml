@@ -1,0 +1,11 @@
+build:
+  version: "v3.0.0"
+
+cards:
+  message: "Welcome to Mango Bank Dev Cards Microservice"
+  contactDetails:
+    name: "Cards-Dev-Admin"
+    email: "cards-dev-admin@mango.com"
+  onCallSupport:
+    - 9654789654
+    - 9874569874

@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Mango Bank Production Accounts Microservice"
   contactDetails:
     name: "Accounts-Prod-Admin"
-    email: "accounts-prod-admin@mango.com"
+    email: "{cipher}b234f39278a6468beaf0110219423d15a002b3041acc007cf552165bba4dec696dc0c5b33ef48975571978980dfe4c80"
   onCallSupport:
     - 9654789654
     - 9874569874

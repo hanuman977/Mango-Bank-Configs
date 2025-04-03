@@ -2,7 +2,7 @@ build:
   version: "v3.0.0"
 
 loans:
-  message: "Welcome to Mango Bank Prod Loans Microservice"
+  message: "Welcome to Mango Bank Production Loans Microservice"
   contactDetails:
     name: "Loans-Prod-Admin"
     email: "loans-prod-admin@mango.com"

@@ -2,7 +2,7 @@ build:
   version: "v1.0.0"
 
 accounts:
-  message: "Welcome to Mango Bank Prod Accounts Microservice"
+  message: "Welcome to Mango Bank Production Accounts Microservice"
   contactDetails:
     name: "Accounts-Prod-Admin"
     email: "accounts-prod-admin@mango.com"

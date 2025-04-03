@@ -2,7 +2,7 @@ build:
   version: "v3.0.0"
 
 cards:
-  message: "Welcome to Mango Bank Production Cards Microservice"
+  message: "Welcome to Mango Bank Prod Cards Microservice"
   contactDetails:
     name: "Cards-Prod-Admin"
     email: "cards-prod-admin@mango.com"

@@ -2,7 +2,7 @@ build:
   version: "v3.0.0"
 
 accounts:
-  message: "Welcome to Mango Bank Development Accounts Microservice"
+  message: "Welcome to Mango Bank Development Accounts Microservice-Mango"
   contactDetails:
     name: "Accounts-Dev-Admin"
     email: "accounts-dev-admin@mango.com"

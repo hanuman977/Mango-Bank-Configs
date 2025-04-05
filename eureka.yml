@@ -14,4 +14,4 @@ info:
   app:
     name: "eureka"
     description: "Eureka Server"
-    version: "1.0.0"
+    version: "1.0.2"
